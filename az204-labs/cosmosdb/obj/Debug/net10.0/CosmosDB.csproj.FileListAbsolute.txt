@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\bin\Debug\net10.0\CosmosDB.exe
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\bin\Debug\net10.0\CosmosDB.deps.json
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\bin\Debug\net10.0\CosmosDB.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\bin\Debug\net10.0\CosmosDB.dll
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\bin\Debug\net10.0\CosmosDB.pdb
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.sourcelink.json
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.dll
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\refint\CosmosDB.dll
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.pdb
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\CosmosDB.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\azure\az204-labs\cosmosdb\obj\Debug\net10.0\ref\CosmosDB.dll
